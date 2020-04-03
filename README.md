@@ -1,3 +1,10 @@
+You must changed API_KEY:
+
+<meta-data android:name="com.mapbox.token" android:value="@string/mapbox_access_token" />
+
+inside of example/android/app/src/main/AndroidManifest.xml 
+
+
 # Flutter Mapbox GL Native
 
 > **Please note that this project is community driven and is not an official Mapbox product.** We welcome [feedback](https://github.com/tobrun/flutter-mapbox-gl/issues) and contributions.
